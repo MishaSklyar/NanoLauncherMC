@@ -33,11 +33,11 @@ Built with Python and Dear PyGui. No Electron. No Bloat. Blatantly Fast.
 *   A screen.
 *   Python 3.8+
 *   Internet connection
+*   Java
 
 ## Version
-V1.0
-*   Java Runtime Environment (JRE)
-*   A Screen.
+V1.0.01 (Readme Fix)
+
 
 ## License
 MIT License
